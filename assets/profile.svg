@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title description">
+  <title id="title">Cheolju Kim</title>
+  <desc id="description">Placeholder portrait with the initials CK</desc>
+  <rect width="400" height="400" fill="#eef2f3"/>
+  <circle cx="200" cy="200" r="184" fill="#173f5f"/>
+  <circle cx="200" cy="200" r="174" fill="#f7f8f8"/>
+  <text x="200" y="225" text-anchor="middle" fill="#173f5f" font-family="Georgia, serif" font-size="104" letter-spacing="-5">CK</text>
+</svg>
