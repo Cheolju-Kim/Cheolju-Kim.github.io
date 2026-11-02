@@ -116,10 +116,10 @@ nav a.active::after {
 
 .portrait-wrap {
   width: 190px;
-  height: 190px;
+  aspect-ratio: 3 / 4;
   margin-bottom: 24px;
   overflow: hidden;
-  border-radius: 50%;
+  border-radius: 6px;
   background: var(--soft);
 }
 
@@ -354,7 +354,6 @@ footer {
 
   .portrait-wrap {
     width: 112px;
-    height: 112px;
     margin: 0;
     grid-row: 1 / span 4;
   }
@@ -395,7 +394,6 @@ footer {
 
   .portrait-wrap {
     width: 88px;
-    height: 88px;
   }
 
   .profile-links {
