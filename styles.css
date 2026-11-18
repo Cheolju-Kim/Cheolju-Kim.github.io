@@ -300,6 +300,24 @@ nav a.active::after {
   font-size: 1.23rem;
 }
 
+.content.cv-content {
+  max-width: none;
+}
+
+.cv-actions {
+  margin: 0 0 14px;
+  font-size: 0.92rem;
+}
+
+.cv-frame {
+  display: block;
+  width: 100%;
+  height: 85vh;
+  min-height: 600px;
+  border: 1px solid var(--line);
+  background: var(--soft);
+}
+
 footer {
   border-top: 1px solid var(--line);
   color: var(--muted);
